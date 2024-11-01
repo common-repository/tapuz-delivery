@@ -1,0 +1,41 @@
+.tapuz-button {
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+    font-size: 13px;
+    line-height: 26px;
+    height: 28px;
+    padding: 0 10px 0;
+    cursor: pointer;
+    border-radius: 3px;
+    color: #fff;
+    border: none;
+    outline: none;
+}
+
+.tapuz-print-button {
+    background: #008000;
+}
+
+.tapuz-print-button:hover {
+    background: #005200;
+    color: #FFFFFF;
+}
+
+.tapuz-print-button:visited {
+    color: #FFFFFF;
+}
+
+.tapuz-button-container,
+.tapuz-table-deliv-num {
+    text-align: center;
+}
+
+.tapuz-table-deliv-num span {
+    color: #ff8e15;
+    font-weight: bold;
+}
+.tapuz-table-deliv-not {
+    text-align: center;
+    color: #999;
+}

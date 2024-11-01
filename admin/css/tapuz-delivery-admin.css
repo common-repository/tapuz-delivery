@@ -1,0 +1,96 @@
+.tapuz-button {
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+    font-size: 13px;
+    line-height: 26px;
+    height: 28px;
+    padding: 0 10px 0;
+    cursor: pointer;
+    border-radius: 3px;
+    color: #fff;
+    border: none;
+    outline: none;
+}
+
+.tapuz-open-button, .tapuz-reopen-ship {
+    background: #ff8e15;
+}
+.tapuz-open-button:hover, .tapuz-reopen-ship:hover {
+    background: #c95f17;
+}
+
+#tapuz_checkbox, #tapuz_collect, #tapuz_motor, #tapuz_packages, #tapuz_exaction_date {
+    margin-bottom: 15px;
+}
+
+#tapuz_return {
+    margin-right: 20px;
+}
+#tapuz_collect {
+    width: 50px;
+}
+#tapuz_packages {
+    width: 50px;
+}
+
+.tapuz_loader {
+    width: 50px;
+    margin: 0 auto;
+    display: block;
+}
+.tapuz-print-button {
+    background: #008000;
+}
+.tapuz-print-button:hover {
+    background: #005200;
+    color: #FFFFFF;
+}
+.tapuz-print-button:visited {
+    color: #FFFFFF;
+}
+
+.tapuz-success-ship {
+    display: none;
+}
+.tapuz-success-ship-number {
+    color: green;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.tapuz_exist_details {
+    display: none;
+}
+#tapuz_ship_exists span {
+    margin: 5px;
+    color: green;
+}
+.tapuz_error_message {
+    color: #ff0006;
+}
+.tapuz-cancel-ship {
+    background: #ff0006;
+}
+.tapuz-cancel-ship:hover {
+    background: #a10006;
+}
+
+.tapuz-button-container {
+    text-align: center;
+}
+
+.tapuz-powered-by {
+    direction: ltr;
+    text-align: center;
+    margin-top: 15px;
+}
+
+.tapuz-powered-by span {
+    font-size: 13px;
+    color: #1a1a1a !important;
+}
+
+.tapuz-powered-by img {
+    height: 20px;
+    vertical-align: middle;
+}

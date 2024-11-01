@@ -1,0 +1,344 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Tapuz Delivery Plugin\n"
+"POT-Creation-Date: 2016-06-05 14:51+0300\n"
+"PO-Revision-Date: 2016-06-05 14:52+0300\n"
+"Last-Translator: \n"
+"Language-Team: Amit Tal, HATAMMY <amit@hatammy.com>\n"
+"Language: he_IL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: tapuz-delivery.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: admin/class-tapuz-admin-view.php:33
+msgid "We are experiencing a communication error. Please try again later."
+msgstr "אנחנו חווים כרגע בעיות תקשורת. אנא נסה מאוחר יותר."
+
+#: admin/class-tapuz-admin-view.php:34
+msgid "Cancel shipment"
+msgstr "ביטול משלוח"
+
+#: admin/class-tapuz-admin-view.php:35
+msgid "Shipment canceled successfully"
+msgstr "המשלוח בוטל בהצלחה"
+
+#: admin/class-tapuz-admin-view.php:36
+msgid "Reopen shipment"
+msgstr "פתח משלוח בשנית"
+
+#: admin/class-tapuz-admin-view.php:37
+msgid "Open"
+msgstr "פתוח"
+
+#: admin/class-tapuz-admin-view.php:38
+msgid "Delivery man on his way"
+msgstr "הועבר לשליח"
+
+#: admin/class-tapuz-admin-view.php:39
+msgid "Delivered"
+msgstr "בוצע"
+
+#: admin/class-tapuz-admin-view.php:40
+msgid "Collected from customer"
+msgstr "נאסף"
+
+#: admin/class-tapuz-admin-view.php:41
+msgid "Back from costumer"
+msgstr "חזר מכפולה"
+
+#: admin/class-tapuz-admin-view.php:42
+msgid "Approved"
+msgstr "אושר ביצוע"
+
+#: admin/class-tapuz-admin-view.php:43
+msgid "Canceled"
+msgstr "בוטל"
+
+#: admin/class-tapuz-admin-view.php:44
+msgid "Second delivery man "
+msgstr "שליח שני"
+
+#: admin/class-tapuz-admin-view.php:45
+msgid "On hold"
+msgstr "משלוח בהמתנה"
+
+#: admin/class-tapuz-admin-view.php:46
+msgid ""
+"Error fetching data from Tapuz. Please check your API Settings on Settings -"
+"> Tapuz Delivery"
+msgstr ""
+"שגיאה בתקשורת עם תפוז שליחויות. אנא בדוק את ההגדרות בתפריט אפשרויות - > תפוז "
+"שליחויות"
+
+#: admin/class-tapuz-admin-view.php:47
+msgid ""
+"Error opening shipment in Tapuz. Please check your API Settings on Settings -"
+"> Tapuz Delivery"
+msgstr ""
+"שגיאה בפתיחת השליחות. אנא בדוק את ההגדרות בתפריט אפשרויות - > תפוז שליחויות"
+
+#. Plugin Name of the plugin/theme
+#: admin/class-tapuz-admin-view.php:86 admin/class-tapuz-admin-view.php:180
+#: includes/tapuz-woocommerce-settings.php:13
+#: includes/tapuz-woocommerce-settings.php:14
+msgid "Tapuz Delivery"
+msgstr "תפוז שליחויות"
+
+#: admin/class-tapuz-admin-view.php:118
+msgid "Tapuz shipment details: "
+msgstr "פרטי משלוח בתפוז:"
+
+#: admin/class-tapuz-admin-view.php:119 admin/class-tapuz-admin-view.php:160
+msgid "Shipment number:"
+msgstr "מספר משלוח:"
+
+#: admin/class-tapuz-admin-view.php:121
+msgid "Receiver name: "
+msgstr "שם המקבל:"
+
+#: admin/class-tapuz-admin-view.php:122
+msgid "Delivery time:"
+msgstr "זמן פתיחת משלוח:"
+
+#: admin/class-tapuz-admin-view.php:123
+msgid "Delivery status:"
+msgstr "סטטוס שליחות:"
+
+#: admin/class-tapuz-admin-view.php:124
+msgid "Shipped on:"
+msgstr "נשלח ב:"
+
+#: admin/class-tapuz-admin-view.php:127 admin/class-tapuz-admin-view.php:163
+#: admin/class-tapuz-admin-view.php:208
+msgid "Print label"
+msgstr "הדפס תווית"
+
+#: admin/class-tapuz-admin-view.php:141
+msgid ""
+"Notice: This plugin was installed after this order was made. Please check "
+"with Tapuz if you already opened this delivery. "
+msgstr ""
+"הודעה חשובה: התוסף הותקן אחרי שהזמנה זו בוצעה. אנא בדוק שמשלוח זה לא נפתח "
+"בעבר."
+
+#: admin/class-tapuz-admin-view.php:143
+msgid "Urgent"
+msgstr "דחוף"
+
+#: admin/class-tapuz-admin-view.php:144
+msgid "Return"
+msgstr "כפול"
+
+#: admin/class-tapuz-admin-view.php:146
+msgid "Collect amount: "
+msgstr "סכום גוביינא:"
+
+#: admin/class-tapuz-admin-view.php:146
+msgid "NO"
+msgstr "לא"
+
+#: admin/class-tapuz-admin-view.php:147
+msgid "Delivery type:"
+msgstr "סוג משלוח:"
+
+#: admin/class-tapuz-admin-view.php:149
+msgid "Scooter"
+msgstr "אופנוע"
+
+#: admin/class-tapuz-admin-view.php:150
+msgid "Car"
+msgstr "מכונית"
+
+#: admin/class-tapuz-admin-view.php:152
+msgid "Packages:"
+msgstr "מספר חבילות:"
+
+#: admin/class-tapuz-admin-view.php:153
+msgid "Deliver on:"
+msgstr "משלוח בתאריך:"
+
+#: admin/class-tapuz-admin-view.php:156
+msgid "Open shipment"
+msgstr "פתח משלוח"
+
+#: admin/class-tapuz-admin-view.php:203
+msgid "Delivery number:"
+msgstr "מספר שליחות:"
+
+#: admin/class-tapuz-admin-view.php:214
+msgid "No delivery to display"
+msgstr "אין משלוח להצגה"
+
+#: includes/class-tapuz-ajax.php:66
+msgid "Error - please check WooCommerce shipping Details."
+msgstr "שגיאה - אנא בדוק את פרטי המשלוח."
+
+#: includes/class-tapuz-ajax.php:69 includes/class-tapuz-ajax.php:72
+#: includes/class-tapuz-ajax.php:75 includes/class-tapuz-ajax.php:87
+#: includes/class-tapuz-ajax.php:90 includes/class-tapuz-ajax.php:102
+#: includes/class-tapuz-ajax.php:105
+msgid "Error - please check Tapuz settings -> collect from address."
+msgstr "שגיאה - אנא בדוק את פרטי השולח בתפריט הגדרות -> תפוז שליחויות"
+
+#: includes/class-tapuz-ajax.php:78
+msgid "Error - please check WooCommerce shipping street name."
+msgstr "שגיאה - אנא בדוק את פרטי המשלוח - כתובת הלקוח."
+
+#: includes/class-tapuz-ajax.php:81
+msgid "Error - please check WooCommerce shipping house number."
+msgstr "שגיאה - אנא בדוק את פרטי המשלוח - מספר בית בכתובת הלקוח."
+
+#: includes/class-tapuz-ajax.php:84
+msgid "Error - please check WooCommerce shipping city name."
+msgstr "שגיאה - אנא בדוק את פרטי המשלוח - עיר בכתובת הלקוח."
+
+#: includes/class-tapuz-ajax.php:93
+msgid "Error - please check Tapuz settings -> customer code."
+msgstr ""
+"שגיאה - אנא בדוק את ההגדרות בתפריט ההגדרות -> תפוז שליחויות -> קוד לקוח."
+
+#: includes/class-tapuz-ajax.php:96
+msgid "Error - please check WooCommerce shipping note."
+msgstr "שגיאה - אנא בדוק את פרטי המשלוח - הערת משלוח בכתובת לקוח."
+
+#: includes/class-tapuz-ajax.php:99
+msgid "Error - please check shipping packages number."
+msgstr "שגיאה - אנא בדוק את מספר החבילות למשלוח."
+
+#: includes/class-tapuz-ajax.php:108
+msgid "Error - please check WooCommerce shipping costumer name."
+msgstr "שגיאה - אנא בדוק את פרטי המשלוח - שם הלקוח."
+
+#: includes/class-tapuz-ajax.php:111
+msgid "Error - please check WooCommerce shipping costumer phone number."
+msgstr "שגיאה - אנא בדוק את פרטי המשלוח - טלפון לקוח."
+
+#: includes/class-tapuz-ajax.php:114
+msgid "Error - please check WooCommerce shipping costumer email."
+msgstr "שגיאה - אנא בדוק את פרטי המשלוח - כתובת דואר אלקטרוני של הלקוח."
+
+#: includes/class-tapuz-ajax.php:117
+msgid "Error - please check shipping delivery date."
+msgstr "שגיאה - אנא בדוק את פרטי המשלוח - תאריך שליחות."
+
+#: includes/class-tapuz-ajax.php:120
+msgid "Error - please check shipping collect amount."
+msgstr "שגיאה - אנא בדוק את פרטי המשלוח -סכום גוביינא."
+
+#: includes/tapuz-woocommerce-settings.php:23
+msgid "You do not have sufficient permissions to access this page."
+msgstr "אין לך הרשאות לגשת לעמוד זה."
+
+#: includes/tapuz-woocommerce-settings.php:47
+msgid "Your settings have been saved."
+msgstr "ההגדרות נשמרו בהצלחה."
+
+#: includes/tapuz-woocommerce-settings.php:51
+msgid "Tapuz Delivery Integration Settings"
+msgstr "הגדרות ממשק - תפוז שליחויות"
+
+#: includes/tapuz-woocommerce-settings.php:53
+msgid "API Settings:"
+msgstr "הגדרות חיבור:"
+
+#: includes/tapuz-woocommerce-settings.php:55
+msgid "Service URL: "
+msgstr "כתובת לממשק:"
+
+#: includes/tapuz-woocommerce-settings.php:57
+msgid "Customer code: "
+msgstr "קוד לקוח:"
+
+#: includes/tapuz-woocommerce-settings.php:59
+msgid "Username: "
+msgstr "שם משתמש:"
+
+#: includes/tapuz-woocommerce-settings.php:61
+msgid "Password: "
+msgstr "סיסמה:"
+
+#: includes/tapuz-woocommerce-settings.php:64
+msgid "Shipping Label Settings:"
+msgstr "הגדרות תוויות משלוח:"
+
+#: includes/tapuz-woocommerce-settings.php:65
+msgid "Label size: "
+msgstr "גודל תווית:"
+
+#: includes/tapuz-woocommerce-settings.php:72
+msgid "Logo URL: "
+msgstr "כתובת לוגו:"
+
+#: includes/tapuz-woocommerce-settings.php:75
+msgid "Delivery Settings - collect from address:"
+msgstr "הגדרות איסוף:"
+
+#: includes/tapuz-woocommerce-settings.php:76
+msgid "Street name: "
+msgstr "שם הרחוב:"
+
+#: includes/tapuz-woocommerce-settings.php:78
+msgid "House number: "
+msgstr "מספר בית:"
+
+#: includes/tapuz-woocommerce-settings.php:80
+msgid "City name: "
+msgstr "שם העיר:"
+
+#: includes/tapuz-woocommerce-settings.php:82
+msgid "Company name: "
+msgstr "שם החברה:"
+
+#: includes/tapuz-woocommerce-settings.php:84
+msgid "submit"
+msgstr "שמור"
+
+#: tapuz-delivery.php:85
+msgid "Settings"
+msgstr "הגדרות"
+
+#: tapuz-delivery.php:86
+msgid "Who is HATAMMY"
+msgstr "אודות HATAMMY"
+
+#: tapuz-delivery.php:87
+msgid "Installation instructions"
+msgstr "הוראות התקנה"
+
+#: tapuz-delivery.php:97
+msgid ""
+"WooCommerce is not active. Please activate plugin before using Tapuz "
+"Delivery plugin."
+msgstr ""
+"תוסף WooCommerce אינו פעיל. אנא הפעל אותו לפני השימוש בתוסף תפוז שליחויות."
+
+#. Plugin URI of the plugin/theme
+msgid "http://hatammy.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "A plugin for Tapuz Delivery orders from within WooCommerce."
+msgstr ""
+"תוסף המאפשר פתיחת שליחויות, הדפסת תוויות וקבלת סטטוס משלוח ישירות מ- "
+"WooCommerce."
+
+#. Author of the plugin/theme
+msgid "HATAMMY digital marketing"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://hatammy.com/"
+msgstr ""
+
+#~ msgid "Amit Tal, HATAMMY"
+#~ msgstr "עמית טל, HATAMMY"

@@ -1,0 +1,332 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Tapuz Delivery\n"
+"POT-Creation-Date: 2016-06-05 14:51+0300\n"
+"PO-Revision-Date: 2016-04-02 12:27+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: tapuz-delivery.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: admin/class-tapuz-admin-view.php:33
+msgid "We are experiencing a communication error. Please try again later."
+msgstr ""
+
+#: admin/class-tapuz-admin-view.php:34
+msgid "Cancel shipment"
+msgstr ""
+
+#: admin/class-tapuz-admin-view.php:35
+msgid "Shipment canceled successfully"
+msgstr ""
+
+#: admin/class-tapuz-admin-view.php:36
+msgid "Reopen shipment"
+msgstr ""
+
+#: admin/class-tapuz-admin-view.php:37
+msgid "Open"
+msgstr ""
+
+#: admin/class-tapuz-admin-view.php:38
+msgid "Delivery man on his way"
+msgstr ""
+
+#: admin/class-tapuz-admin-view.php:39
+msgid "Delivered"
+msgstr ""
+
+#: admin/class-tapuz-admin-view.php:40
+msgid "Collected from customer"
+msgstr ""
+
+#: admin/class-tapuz-admin-view.php:41
+msgid "Back from costumer"
+msgstr ""
+
+#: admin/class-tapuz-admin-view.php:42
+msgid "Approved"
+msgstr ""
+
+#: admin/class-tapuz-admin-view.php:43
+msgid "Canceled"
+msgstr ""
+
+#: admin/class-tapuz-admin-view.php:44
+msgid "Second delivery man "
+msgstr ""
+
+#: admin/class-tapuz-admin-view.php:45
+msgid "On hold"
+msgstr ""
+
+#: admin/class-tapuz-admin-view.php:46
+msgid ""
+"Error fetching data from Tapuz. Please check your API Settings on Settings -"
+"> Tapuz Delivery"
+msgstr ""
+
+#: admin/class-tapuz-admin-view.php:47
+msgid ""
+"Error opening shipment in Tapuz. Please check your API Settings on Settings -"
+"> Tapuz Delivery"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#: admin/class-tapuz-admin-view.php:86 admin/class-tapuz-admin-view.php:180
+#: includes/tapuz-woocommerce-settings.php:13
+#: includes/tapuz-woocommerce-settings.php:14
+msgid "Tapuz Delivery"
+msgstr ""
+
+#: admin/class-tapuz-admin-view.php:118
+msgid "Tapuz shipment details: "
+msgstr ""
+
+#: admin/class-tapuz-admin-view.php:119 admin/class-tapuz-admin-view.php:160
+msgid "Shipment number:"
+msgstr ""
+
+#: admin/class-tapuz-admin-view.php:121
+msgid "Receiver name: "
+msgstr ""
+
+#: admin/class-tapuz-admin-view.php:122
+msgid "Delivery time:"
+msgstr ""
+
+#: admin/class-tapuz-admin-view.php:123
+msgid "Delivery status:"
+msgstr ""
+
+#: admin/class-tapuz-admin-view.php:124
+msgid "Shipped on:"
+msgstr ""
+
+#: admin/class-tapuz-admin-view.php:127 admin/class-tapuz-admin-view.php:163
+#: admin/class-tapuz-admin-view.php:208
+msgid "Print label"
+msgstr ""
+
+#: admin/class-tapuz-admin-view.php:141
+msgid ""
+"Notice: This plugin was installed after this order was made. Please check "
+"with Tapuz if you already opened this delivery. "
+msgstr ""
+
+#: admin/class-tapuz-admin-view.php:143
+msgid "Urgent"
+msgstr ""
+
+#: admin/class-tapuz-admin-view.php:144
+msgid "Return"
+msgstr ""
+
+#: admin/class-tapuz-admin-view.php:146
+msgid "Collect amount: "
+msgstr ""
+
+#: admin/class-tapuz-admin-view.php:146
+msgid "NO"
+msgstr ""
+
+#: admin/class-tapuz-admin-view.php:147
+msgid "Delivery type:"
+msgstr ""
+
+#: admin/class-tapuz-admin-view.php:149
+msgid "Scooter"
+msgstr ""
+
+#: admin/class-tapuz-admin-view.php:150
+msgid "Car"
+msgstr ""
+
+#: admin/class-tapuz-admin-view.php:152
+msgid "Packages:"
+msgstr ""
+
+#: admin/class-tapuz-admin-view.php:153
+msgid "Deliver on:"
+msgstr ""
+
+#: admin/class-tapuz-admin-view.php:156
+msgid "Open shipment"
+msgstr ""
+
+#: admin/class-tapuz-admin-view.php:203
+msgid "Delivery number:"
+msgstr ""
+
+#: admin/class-tapuz-admin-view.php:214
+msgid "No delivery to display"
+msgstr ""
+
+#: includes/class-tapuz-ajax.php:66
+msgid "Error - please check WooCommerce shipping Details."
+msgstr ""
+
+#: includes/class-tapuz-ajax.php:69 includes/class-tapuz-ajax.php:72
+#: includes/class-tapuz-ajax.php:75 includes/class-tapuz-ajax.php:87
+#: includes/class-tapuz-ajax.php:90 includes/class-tapuz-ajax.php:102
+#: includes/class-tapuz-ajax.php:105
+msgid "Error - please check Tapuz settings -> collect from address."
+msgstr ""
+
+#: includes/class-tapuz-ajax.php:78
+msgid "Error - please check WooCommerce shipping street name."
+msgstr ""
+
+#: includes/class-tapuz-ajax.php:81
+msgid "Error - please check WooCommerce shipping house number."
+msgstr ""
+
+#: includes/class-tapuz-ajax.php:84
+msgid "Error - please check WooCommerce shipping city name."
+msgstr ""
+
+#: includes/class-tapuz-ajax.php:93
+msgid "Error - please check Tapuz settings -> customer code."
+msgstr ""
+
+#: includes/class-tapuz-ajax.php:96
+msgid "Error - please check WooCommerce shipping note."
+msgstr ""
+
+#: includes/class-tapuz-ajax.php:99
+msgid "Error - please check shipping packages number."
+msgstr ""
+
+#: includes/class-tapuz-ajax.php:108
+msgid "Error - please check WooCommerce shipping costumer name."
+msgstr ""
+
+#: includes/class-tapuz-ajax.php:111
+msgid "Error - please check WooCommerce shipping costumer phone number."
+msgstr ""
+
+#: includes/class-tapuz-ajax.php:114
+msgid "Error - please check WooCommerce shipping costumer email."
+msgstr ""
+
+#: includes/class-tapuz-ajax.php:117
+msgid "Error - please check shipping delivery date."
+msgstr ""
+
+#: includes/class-tapuz-ajax.php:120
+msgid "Error - please check shipping collect amount."
+msgstr ""
+
+#: includes/tapuz-woocommerce-settings.php:23
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: includes/tapuz-woocommerce-settings.php:47
+msgid "Your settings have been saved."
+msgstr ""
+
+#: includes/tapuz-woocommerce-settings.php:51
+msgid "Tapuz Delivery Integration Settings"
+msgstr ""
+
+#: includes/tapuz-woocommerce-settings.php:53
+msgid "API Settings:"
+msgstr ""
+
+#: includes/tapuz-woocommerce-settings.php:55
+msgid "Service URL: "
+msgstr ""
+
+#: includes/tapuz-woocommerce-settings.php:57
+msgid "Customer code: "
+msgstr ""
+
+#: includes/tapuz-woocommerce-settings.php:59
+msgid "Username: "
+msgstr ""
+
+#: includes/tapuz-woocommerce-settings.php:61
+msgid "Password: "
+msgstr ""
+
+#: includes/tapuz-woocommerce-settings.php:64
+msgid "Shipping Label Settings:"
+msgstr ""
+
+#: includes/tapuz-woocommerce-settings.php:65
+msgid "Label size: "
+msgstr ""
+
+#: includes/tapuz-woocommerce-settings.php:72
+msgid "Logo URL: "
+msgstr ""
+
+#: includes/tapuz-woocommerce-settings.php:75
+msgid "Delivery Settings - collect from address:"
+msgstr ""
+
+#: includes/tapuz-woocommerce-settings.php:76
+msgid "Street name: "
+msgstr ""
+
+#: includes/tapuz-woocommerce-settings.php:78
+msgid "House number: "
+msgstr ""
+
+#: includes/tapuz-woocommerce-settings.php:80
+msgid "City name: "
+msgstr ""
+
+#: includes/tapuz-woocommerce-settings.php:82
+msgid "Company name: "
+msgstr ""
+
+#: includes/tapuz-woocommerce-settings.php:84
+msgid "submit"
+msgstr ""
+
+#: tapuz-delivery.php:85
+msgid "Settings"
+msgstr ""
+
+#: tapuz-delivery.php:86
+msgid "Who is HATAMMY"
+msgstr ""
+
+#: tapuz-delivery.php:87
+msgid "Installation instructions"
+msgstr ""
+
+#: tapuz-delivery.php:97
+msgid ""
+"WooCommerce is not active. Please activate plugin before using Tapuz "
+"Delivery plugin."
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://hatammy.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "A plugin for Tapuz Delivery orders from within WooCommerce."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "HATAMMY digital marketing"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://hatammy.com/"
+msgstr ""
